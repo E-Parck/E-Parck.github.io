@@ -5,7 +5,7 @@ date: '2022-02-26'
 tags: ['GIT']
 draft: false
 summary: '고량주 1주차 과제'
-images: ['']
+images: ['/static/images/welcome.webp']
 ---
 
 📌**GIT WORKFLOW**
