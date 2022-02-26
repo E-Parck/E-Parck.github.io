@@ -1,11 +1,11 @@
 ---
 name: E P
-avatar: /static/images/cloud.png
-occupation: 타이틀
-company: 컴패니
-email: 이메일주소
+avatar: /static/images/cloud.jpg
+occupation: 백수
+company: 고량주
+email: ellasyparck@gmail.com
 linkedin: 링크드인주소
-github: 깃헙주소
+github: https://github.com/E-Parck
 ---
 
-자기 소개하기
+고량주 스터디
