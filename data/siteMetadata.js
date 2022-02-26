@@ -19,7 +19,7 @@ const siteMetadata = {
   comment: {
     provider: 'utterances',
     utterancesConfig: {
-      repo: 'E-Parck/EP.github.io',
+      repo: 'E-Parck/E-Parck.github.io',
       issueTerm: 'title',
       label: 'Comment 💬',
       theme: 'github-light',
