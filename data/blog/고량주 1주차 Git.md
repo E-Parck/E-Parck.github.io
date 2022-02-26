@@ -126,6 +126,7 @@ Git 기본 저장소: origin
 
 3. Q키를 눌러 로그 화면 나가기
 
+.
 
 1. 오류 발생: *'npm' is not recognized as an internal or external command, operable program or batch file.*
 
