@@ -7,7 +7,7 @@ const siteMetadata = {
   siteUrl: '',
   siteRepo: '',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/cloud.png',
+  image: '/static/images/cloud.jpg',
   socialBanner: '/static/images/social-banner.png',
   email: 'ellasyparck@gmail.com',
   github: 'https://github.com/E-Parck',
