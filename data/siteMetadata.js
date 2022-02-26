@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'E P Blog',
   author: 'E P',
-  headerTitle: '헤더타이틀',
-  description: '블로그 설명',
+  headerTitle: 'E P',
+  description: '고량주 과제로 만든 블로그',
   language: 'ko-KR',
   siteUrl: 'https://E-Parck.github.io',
   siteRepo: '',
