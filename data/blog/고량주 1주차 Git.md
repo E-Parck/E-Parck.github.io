@@ -25,8 +25,6 @@ images: ['']
 > * **git commit**: staging area -> .git directory
 > * **git checkout**: .git directory -> working directory
 
-..
-
 ⭐**REMOTE REPOSITORY**
 -
 
@@ -48,8 +46,6 @@ images: ['']
 |**branch** (브랜치)|또 다른 작업공간|
 |**merge** (머지)|병합/합치기, 특정 브랜치에서 작업한 내용을 또 다른 브랜치에 적용하는 것|
 
-..
-
 |✔️terminal commands|Description|
 |--|--|
 |**mkdir**|디렉토리 생성|
@@ -58,8 +54,6 @@ images: ['']
 |**echo "[글자]" >> [파일]**|파일에 글자 추가|
 |**echo [글자] > [파일].txt**|파일 생성 + 글자 추가|
 |**cd ..**|상위 디렉토리로 이동|
-
-..
 
 |✔️Git commands|Description|
 |--|--|
@@ -85,8 +79,6 @@ images: ['']
 |**git switch -c [new branch]**|브랜치를 생성하면서 이동|
 |= **git branch [new branch]** & **git switch [new branch]**|브랜치 생성 & 브랜치 변경|
 |**git merge**|브랜치 합치기|
-
-..
 
 ⭐**conflict 해결**
 -
@@ -121,14 +113,12 @@ Git 기본 저장소: origin
 
 [Windows에서 명령어 code 등록하기](https://www.lainyzine.com/ko/article/how-to-execute-visual-studio-code-from-terminal/#%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-visual-studio-code%EC%9D%98-path%EB%A5%BC-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
-..
 
 |*단축키*|저장소 진입|터미널 초기화|
 |--|--|--|
 |Windows|**start .git**|**ctrl + K**|
 |mac|**open .git**|**command + K**|
 
-..
 
 1. git log 명령어 실행
 
@@ -136,7 +126,6 @@ Git 기본 저장소: origin
 
 3. Q키를 눌러 로그 화면 나가기
 
-..
 
 1. 오류 발생: *'npm' is not recognized as an internal or external command, operable program or batch file.*
 
