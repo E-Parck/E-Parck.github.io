@@ -1,8 +1,8 @@
 ---
-title: '[고량주] Git'
+title: 'Git'
 thumbSrc: ''
 date: '2022-02-26'
-tags: ['GIT']
+tags: ['GoRyangJu']
 draft: false
 summary: '고량주 1주차 과제'
 images: []
