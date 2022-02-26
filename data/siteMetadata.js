@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: '헤더타이틀',
   description: '블로그 설명',
   language: 'ko-KR',
-  siteUrl: '',
+  siteUrl: 'https://EP.github.io',
   siteRepo: '',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/cloud.jpg',
