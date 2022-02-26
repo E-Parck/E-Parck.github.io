@@ -1,11 +1,11 @@
 ---
 title: '[고량주] Git'
-thumbSrc: '/static/images/welcome.webp'
+thumbSrc: ''
 date: '2022-02-26'
 tags: ['GIT']
 draft: false
 summary: '고량주 1주차 과제'
-images: ['/static/images/welcome.webp']
+images: []
 ---
 
 📌**GIT WORKFLOW**
