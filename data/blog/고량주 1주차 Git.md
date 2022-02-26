@@ -95,7 +95,7 @@ images: ['']
 
 1. **충돌이 발생한 파일 열기**
 
-<img src="https://ifh.cc/g/HozZgR.png" width="170" height="120"></img>
+<img src="https://ifh.cc/g/IPPj7S.png" width="170" height="120"></img>
 
 2. **맞는 내용만 남기고 전부 삭제**
 3. **commit** (git add & git commit)
