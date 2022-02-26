@@ -1,6 +1,6 @@
 ---
 title: '[고량주] Git'
-thumbSrc: ''
+thumbSrc: '/static/images/welcome.webp'
 date: '2022-02-26'
 tags: ['GIT']
 draft: false
