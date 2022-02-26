@@ -1,6 +1,6 @@
 ---
-name: 이름
-avatar: /static/images/프로필사진.png
+name: E P
+avatar: /static/images/cloud.png
 occupation: 타이틀
 company: 컴패니
 email: 이메일주소
